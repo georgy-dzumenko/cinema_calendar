@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cinema_calendar/static/css/main.74964b81.css",
+    "main.js": "/cinema_calendar/static/js/main.0251eb23.js",
+    "static/js/787.2746eaee.chunk.js": "/cinema_calendar/static/js/787.2746eaee.chunk.js",
+    "static/media/Hateful-Eight.jpg": "/cinema_calendar/static/media/Hateful-Eight.9e53f7613b2a89e7bd27.jpg",
+    "static/media/Reservoir-Dogs-Movie-Poster.jpg": "/cinema_calendar/static/media/Reservoir-Dogs-Movie-Poster.5ccc32a0adbbc76fadc5.jpg",
+    "static/media/Pulp-Fiction.jpg": "/cinema_calendar/static/media/Pulp-Fiction.65a8e8366149fec0be3e.jpg",
+    "static/media/MartianMono-ExtraBold.ttf": "/cinema_calendar/static/media/MartianMono-ExtraBold.d9105dd9b14f84350bf1.ttf",
+    "static/media/MartianMono-Medium.ttf": "/cinema_calendar/static/media/MartianMono-Medium.c340419ebc1b888ace11.ttf",
+    "static/media/MartianMono-Bold.ttf": "/cinema_calendar/static/media/MartianMono-Bold.5a285b251f24df58b52c.ttf",
+    "static/media/MartianMono-Light.ttf": "/cinema_calendar/static/media/MartianMono-Light.3c5378e9e3793a7b789b.ttf",
+    "static/media/MartianMono-Regular.ttf": "/cinema_calendar/static/media/MartianMono-Regular.299f675959e68d47ddaa.ttf",
+    "static/media/MartianMono-Thin.ttf": "/cinema_calendar/static/media/MartianMono-Thin.78eac6a8732cb2dea532.ttf",
+    "static/media/Django.jpg": "/cinema_calendar/static/media/Django.de6e5095e1114681b584.jpg",
+    "static/media/Inglourious-Basterds.jpg": "/cinema_calendar/static/media/Inglourious-Basterds.73fe572664b3bf8ac0ff.jpg",
+    "static/media/logo.svg": "/cinema_calendar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cinema_calendar/index.html",
+    "main.74964b81.css.map": "/cinema_calendar/static/css/main.74964b81.css.map",
+    "main.0251eb23.js.map": "/cinema_calendar/static/js/main.0251eb23.js.map",
+    "787.2746eaee.chunk.js.map": "/cinema_calendar/static/js/787.2746eaee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74964b81.css",
+    "static/js/main.0251eb23.js"
+  ]
+}
