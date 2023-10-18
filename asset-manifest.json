@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cinema_calendar/static/css/main.691f7d84.css",
-    "main.js": "/cinema_calendar/static/js/main.f2b57c74.js",
+    "main.js": "/cinema_calendar/static/js/main.0bfbd3de.js",
     "static/js/787.2746eaee.chunk.js": "/cinema_calendar/static/js/787.2746eaee.chunk.js",
     "static/media/Hateful-Eight.jpg": "/cinema_calendar/static/media/Hateful-Eight.9e53f7613b2a89e7bd27.jpg",
     "static/media/Reservoir-Dogs-Movie-Poster.jpg": "/cinema_calendar/static/media/Reservoir-Dogs-Movie-Poster.5ccc32a0adbbc76fadc5.jpg",
@@ -16,11 +16,11 @@
     "static/media/Inglourious-Basterds.jpg": "/cinema_calendar/static/media/Inglourious-Basterds.73fe572664b3bf8ac0ff.jpg",
     "index.html": "/cinema_calendar/index.html",
     "main.691f7d84.css.map": "/cinema_calendar/static/css/main.691f7d84.css.map",
-    "main.f2b57c74.js.map": "/cinema_calendar/static/js/main.f2b57c74.js.map",
+    "main.0bfbd3de.js.map": "/cinema_calendar/static/js/main.0bfbd3de.js.map",
     "787.2746eaee.chunk.js.map": "/cinema_calendar/static/js/787.2746eaee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.691f7d84.css",
-    "static/js/main.f2b57c74.js"
+    "static/js/main.0bfbd3de.js"
   ]
 }
